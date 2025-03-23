@@ -44,7 +44,7 @@
 
 ![image](https://github.com/user-attachments/assets/d7151cfa-12c4-4f37-aec6-412487ccebe0)  Máu +[10-20]%,phục hồi 20% lượng máu đã mất cho bản thân và 4 đồng minh sau 5 vòng(Hình dấu +,ko hồi phục cho đồng minh cùng 1 ô(chiến thuật 1 ô))
 
-![image](https://github.com/user-attachments/assets/00e9b8f4-50a7-4ff4-8fe7-1674f3642314)  Sát thương nhận được không vượt quá [15-30].Sát thương vượt quá sẽ được tính sang như sau,50% mỗi vòng(Dmg nhận k quá 15-30 lượt đầu, lượt sau nhận 50% dmg tăng thêm. Ví dụ: chỉ số dc 15,Dmg thực nhận là 75 thì lượt 1 nhận 15, lượt sau nhận 50% x 60 = 30). thương [15-30]
+![image](https://github.com/user-attachments/assets/00e9b8f4-50a7-4ff4-8fe7-1674f3642314)  Sát thương nhận được không vượt quá[15-30].Sát thương vượt quá sẽ được tính sang lượt sau,50% mỗi vòng(Dmg nhận k quá 15-30 turn đầu, turn sau nhận 50% dmg tăng thêm. Ví dụ: chỉ số dc 15,Dmg thực nhận là 75 thì turn 1 nhận 15, turn sau nhận 50% x 60 = 30).Nếu sát thương không vượt quá [15-30] thì nhận đủ sát thương [15-30]
 
 ![image](https://github.com/user-attachments/assets/807f093c-9111-4576-89cc-e223e76d9084)  Mỗi đòn tấn công tăng thêm 1 nộ.Có [20-50]% cơ hội tăng 50% nộ khi sử dụng kỹ năng
 
