@@ -8,7 +8,7 @@
 
 ![image](https://github.com/user-attachments/assets/5e0693fe-f0f9-41cf-a6d8-639daaf7b309)  Mỗi lần nhận đòn tấn công tiếp theo tăng [4-10]% hút máu,có thể cộng dồn lên đến 60%(10% với 6 lần bị tấn công(tối đa)).Đòn tấn công tiếp theo tăng 30% sát thương khi đạt 30% máu
 
-![image](https://github.com/user-attachments/assets/a45a86e7-8355-4995-9781-c96c4effdf6f)  Khi tấn công,phục hồi máu từ[10-50]%*St thương nguy ra (46%*23 dmg=10,58 ->11 máu.Nếu đầy máu sẽ chuyển đổi lượng máu thành giáp ảo ,lên đến cấp 6 của bản thân(mỗi cấp được 6 giáp ảo)
+![image](https://github.com/user-attachments/assets/a45a86e7-8355-4995-9781-c96c4effdf6f)  Khi tấn công,phục hồi máu từ[10-50]%*St thương gây ra (46%*23 dmg=10,58 ->11 máu.Nếu đầy máu sẽ chuyển đổi lượng máu thừa thành giáp ảo ,lên đến cấp 6 của bản thân(mỗi cấp được 6 giáp ảo)
 
 ![image](https://github.com/user-attachments/assets/c45daafa-3516-4280-be64-885dac71062d)  Phản hồi[1-5] Sát thương tiêu chuẩn khi bị tấn công
 
