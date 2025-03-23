@@ -6,7 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/8d4a91f7-68af-406f-8466-599c7bd36a04)  Hồi[4-10] Khi Tấn Công.Có 40% tỉ lệ hồi phục cùng lượng máu[4-10] cho đồng đội có lượng máu thấp nhất trong vòng 5 ô.Không thể hồi phục vũ khí(trebuchet,catapult).Hiệu quả hồi phục máu giảm 1 nửa nếu tầm lớn hơn 2(Chỉ phục hồi 1 lần khi gây DMG Aoe.VD:Twin Spearman)
 
-![image](https://github.com/user-attachments/assets/5e0693fe-f0f9-41cf-a6d8-639daaf7b309)  Mỗi lần nhận đòn tấn công tiếp theo tăng [4-10]% hút máu,có thể cộng dồn lên đến 60%(10% với 6 lần bị tấn công(tối đa)).Đòn tấn công tiếp theo tăng 30% sát thương khi đạt 30% máu
+![image](https://github.com/user-attachments/assets/5e0693fe-f0f9-41cf-a6d8-639daaf7b309)  Có [20-40]% tỉ lệ gây ra  [150-180]% sát thương
 
 ![image](https://github.com/user-attachments/assets/a45a86e7-8355-4995-9781-c96c4effdf6f)  Khi tấn công,phục hồi máu từ[10-50]%*St thương gây ra (46%*23 dmg=10,58 ->11 máu.Nếu đầy máu sẽ chuyển đổi lượng máu thừa thành giáp ảo ,lên đến cấp 6 của bản thân(mỗi cấp được 6 giáp ảo)
 
@@ -16,7 +16,7 @@
 
 ![image](https://github.com/user-attachments/assets/57dbfeb7-4b74-4700-9c5a-d771208d2509)  Khi gây sát thương nhận [1-5]%*Máu tối đa của mục tiêu thành giáp ảo.Vd:địch 1000 máu,rìu vàng có 5%,khi tấn công sẽ nhận được 50 giáp ảo
 
-![image](https://github.com/user-attachments/assets/e0f0d0ab-fd26-48a2-a982-696314d7c71b)  Có [20-40]% tỉ lệ gây ra [150-180]% sát thương
+![image](https://github.com/user-attachments/assets/e0f0d0ab-fd26-48a2-a982-696314d7c71b)  Mỗi lần nhận sát thương đòn tấn công tiếp theo tăng [4-10]% Hút máu,có thể cộng dồn lên đến 60%(10% với 6 lần bị tấn công(max)).Đòn tấn công tiếp theo tăng 30% sát thương khi đạt 30% hút máu
 
 ![image](https://github.com/user-attachments/assets/72076ba1-43a4-48fc-9c2b-bdefc2f3cce6)  Giảm sát thương cận chiến[10-35]%.Nhân đôi hiệu quả khi máu dưới 50%
 
@@ -52,7 +52,7 @@
 
 ![image](https://github.com/user-attachments/assets/d5744405-e43e-4383-bcc1-3b8f6a06af57)  Khi bị tấn công bởi các mục tiêu khác nhau, được nhận 3% giảm sát thương, có thể cộng dồn tối đa[10-20] lần đến khi kết thúc trận chiến.Phục hồi 10% máu tối đa khi đạt 10 cộng dồn
 
-![image](https://github.com/user-attachments/assets/2d33a388-c257-4b68-8102-9f84a02e2528) Nhận ngẫu nhiên 1 chỉ số: tấn công họăc máu( nhận 3 tấn công hoặc 30 máu mỗi ngày) sever còn chạy là còn cộng
+![image](https://github.com/user-attachments/assets/2d33a388-c257-4b68-8102-9f84a02e2528) Nhận ngẫu nhiên 1 trong 2 hiệu ứng. Chỉ tăng máu,khi máy chủ chạy ,máu mỗi ngày +30.Chỉ tăng công,khi máy chủ chạy, công mỗi ngày +3(Tính từ khi mở máy chủ VD:7 ngày *3 công=21 công) dù lấy sớm hay muộn cũng theo ngày mở máy chủ để +
 
 ![image](https://github.com/user-attachments/assets/eab05542-ead6-4ef8-8f73-b23e26cccd7f)  Khi máu lần đầu giảm xuống 50%. Tân công+(cấp độ bản thân*5) và hút máu +[10-30]%
 
