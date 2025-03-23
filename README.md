@@ -20,27 +20,27 @@
 
 ![image](https://github.com/user-attachments/assets/72076ba1-43a4-48fc-9c2b-bdefc2f3cce6)  Giảm sát thương cận chiến[10-35]%.Nhân đôi hiệu quả khi máu dưới 50%
 
-![image](https://github.com/user-attachments/assets/26db7487-4584-44d1-88c3-d0dae3041ce1)  Hồi [1-4]% Tối đa máu mỗi lượt xem hành động mới
+![image](https://github.com/user-attachments/assets/26db7487-4584-44d1-88c3-d0dae3041ce1)  Hồi [1-4]% máu tối đa mỗi lượt hành động mới
 
-![image](https://github.com/user-attachments/assets/5ca20953-80b0-42eb-abbb-9affd638768f)  Chuyển đổi[20-50]% sát thương gây ra thành sát thương chuẩn(ví dụ gáy 100 sát thương với 20% sẽ được chuyển thành 20 sát thương : tập 120 sát thương)
+![image](https://github.com/user-attachments/assets/5ca20953-80b0-42eb-abbb-9affd638768f)  Chuyển đổi[20-50]% sát thương gây ra thành sát thương chuẩn(ví dụ gây 100 sát thương với 20% sẽ được chuyển thành 20 sát thương :tổng 120 sát thương)
 
 ![image](https://github.com/user-attachments/assets/f80f20ae-2b93-4d50-843e-dfc10f9f443f)  Sát thương tầm xa giảm[30-60]%.Giảm 1 nửa hiệu quả khi máu xuống dưới 50%
 
  ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được giáp ảo lượng (lv bản thân*[10-20]%) và phục hồi 30% Máu tối đa.Ví ví dụ lv1*20=20 giáp ảo.
 
-![image](https://github.com/user-attachments/assets/f8a4e781-2da1-429e-b2ff-e52cee70e208)  Gây thêm vết thương [1-5]% với hiện tại máu của mục tiêu(không phải máu tối đa).Lính có 2 lần đánh chỉ áp dụng trong lần đánh đầu tiên trong 1 lần(nỏ, cung kỵ binh)
+![image](https://github.com/user-attachments/assets/f8a4e781-2da1-429e-b2ff-e52cee70e208)  Gây thêm sát thương [1-5]% với máu hiện tại của mục tiêu(không phải máu tối đa).Lính có 2 lần đánh chỉ áp dụng với lần đánh đầu tiên trong 1 lượt(crossbowman,bow cavalry)
 
-![image](https://github.com/user-attachments/assets/3a933eb4-87a5-47e8-9019-072b2a43e740)  Khi chết,rơi 1 lá cờ có [2-4].Trong 2 ô tấn công đồng minh +20%,tấn công quân vương -20%.1 cờ chỉ có thể sử dụng 1 vị trí
+![image](https://github.com/user-attachments/assets/3a933eb4-87a5-47e8-9019-072b2a43e740)  Khi chết,rơi 1 lá cờ có [2-4].Trong 2 ô tấn công đồng minh +20%,tấn công kẻ địch -20%.1 cờ chỉ có thể chiếm 1 vị trí
 
-![image](https://github.com/user-attachments/assets/bc66f67e-17fb-445d-98e7-614cdc31a7f7)  Khi gây sát thương có [20-50]% tỉ lệ gây nguy hiểm[ (50-100)%*Atk] tiêu chuẩn sát thương tăng tối đa 4 mục tiêu trong 1 ô(Hình dấu +)
+![image](https://github.com/user-attachments/assets/bc66f67e-17fb-445d-98e7-614cdc31a7f7)  Khi gây sát thương có [20-50]% tỉ lệ gây[ (50-100)%*Atk] sát thương chuẩn lên tối đa 4 mục tiêu trong 1 ô(Hình dấu +)
 
 ![image](https://github.com/user-attachments/assets/e808cc10-f1ac-48b4-aa8b-ec84583e0dea)  Sát thương gây ra+ [20-50]% sát thương nhận vào +100%
 
-![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% tỉ lệ gây sát thương chuẩn=4% máu tối đa của bản thân lên tối đa 4 quân cờ trong 1 ô(bản thân làm trung tâm gây nguy hiểm cho 4 quân theo dấu +). 4%*375Hp=14,96->làm tròn 15 sát thương chuẩn
+![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% tỉ lệ gây sát thương chuẩn=4% máu tối đa của bản thân lên tối đa 4 kẻ địch trong 1 ô(bản thân làm trung tâm gây cho 4 địch theo dấu +). 4%*375Hp=14,96->làm tròn 15 sát thương chuẩn
 
 ![image](https://github.com/user-attachments/assets/47675273-bee0-4950-b9ac-9cdb7aee50af)  Có [10-35]% né tránh mọi tổn thương
 
-![image](https://github.com/user-attachments/assets/61605c33-d772-4fe3-97b3-a41fd9c4975a)  Kết quả tiêu tiêu ngay lập tức có lượng máu thấp hơn[5-20]% và +1 tấn công đến khi kết thúc trận chiến
+![image](https://github.com/user-attachments/assets/61605c33-d772-4fe3-97b3-a41fd9c4975a)  Kết liễu ngay mục tiêu có máu thấp hơn[5-20]% và +1 tấn công đến khi kết thúc trận chiến
 
 ![image](https://github.com/user-attachments/assets/d7151cfa-12c4-4f37-aec6-412487ccebe0)  Máu +[10-20]%,phục hồi 20% lượng máu đã mất cho bản thân và 4 đồng minh sau 5 vòng(Hình dấu +,ko hồi phục cho đồng minh cùng 1 ô(chiến thuật 1 ô))
 
