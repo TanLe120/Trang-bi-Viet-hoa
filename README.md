@@ -10,7 +10,7 @@
 
 ![image](https://github.com/user-attachments/assets/a45a86e7-8355-4995-9781-c96c4effdf6f)  Khi tấn công,phục hồi máu từ[10-50]%*St thương gây ra (46%*23 dmg=10,58 ->11 máu.Nếu đầy máu sẽ chuyển đổi lượng máu thừa thành giáp ảo ,lên đến cấp 6 của bản thân(mỗi cấp được 6 giáp ảo)
 
-![image](https://github.com/user-attachments/assets/c45daafa-3516-4280-be64-885dac71062d)  Phản hồi[1-5] Sát thương tiêu chuẩn khi bị tấn công
+![image](https://github.com/user-attachments/assets/c45daafa-3516-4280-be64-885dac71062d)  Phản lại[1-5] Sát thương chuẩn khi bị tấn công
 
 ![image](https://github.com/user-attachments/assets/9a8b7eed-49d2-4522-92e0-f503c35cb568)  Tầm đánh +1.Bỏ qua[30-70]% Né tránh khi tấn công
 
