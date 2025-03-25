@@ -22,7 +22,7 @@
 
 ![image](https://github.com/user-attachments/assets/26db7487-4584-44d1-88c3-d0dae3041ce1)  Hồi [1-4]% máu tối đa mỗi lượt hành động mới
 
-![image](https://github.com/user-attachments/assets/5ca20953-80b0-42eb-abbb-9affd638768f)  Chuyển đổi[20-50]% sát thương gây ra thành sát thương chuẩn(ví dụ gây 100 sát thương với 20% sẽ được chuyển thành 20 sát thương :tổng 120 sát thương)
+![image](https://github.com/user-attachments/assets/5ca20953-80b0-42eb-abbb-9affd638768f)  Chuyển đổi[20-50]% sát thương gây ra thành sát thương chuẩn(ví dụ gây 100 sát thương(đỏ) với 20% sẽ được chuyển thành 20 sát thương chuẩn(trắng) và 80dmg(đỏ)
 
 ![image](https://github.com/user-attachments/assets/f80f20ae-2b93-4d50-843e-dfc10f9f443f)  Sát thương tầm xa giảm[30-60]%.Giảm 1 nửa hiệu quả khi máu xuống dưới 50%
 
