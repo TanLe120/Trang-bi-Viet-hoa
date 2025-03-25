@@ -60,7 +60,7 @@
 
 ![image](https://github.com/user-attachments/assets/cd790aef-c7f8-4212-9fc1-ebdaca33c90e)  Có [5-25]% cơ hội hành động 2 lần
 
-![image](https://github.com/user-attachments/assets/8e0f9e16-f329-4b6e-845a-91785f370e1b)  Khi vào giai đoạn tấn công tăng [5-15]%, sát thương nhận vào giảm [5-15]% và một trong hai hiệu ứng ngẫu nhiên sẽ tăng gấp đôi
+![image](https://github.com/user-attachments/assets/8e0f9e16-f329-4b6e-845a-91785f370e1b)  Khi bắt đầu trận chiến tấn công tăng [5-15]%, sát thương nhận vào giảm [5-15]% và một trong hai hiệu ứng ngẫu nhiên sẽ tăng gấp đôi
 
 
 
