@@ -22,11 +22,11 @@
 
 ![image](https://github.com/user-attachments/assets/26db7487-4584-44d1-88c3-d0dae3041ce1)  Hồi [1-4]% máu tối đa mỗi lượt hành động mới
 
-![image](https://github.com/user-attachments/assets/5ca20953-80b0-42eb-abbb-9affd638768f)  Chuyển đổi[20-50]% sát thương gây ra thành sát thương chuẩn(ví dụ gây 100 sát thương với 20% sẽ được chuyển thành 20 sát thương :tổng 120 sát thương)
+![image](https://github.com/user-attachments/assets/5ca20953-80b0-42eb-abbb-9affd638768f)  Chuyển đổi[20-50]% lượng sát thương gây ra thành sát thương chuẩn(ví dụ gây 100 sát thương(đỏ) với 20% sẽ được chuyển thành 20 sát thương chuẩn(trắng) và 80dmg(đỏ)
 
 ![image](https://github.com/user-attachments/assets/f80f20ae-2b93-4d50-843e-dfc10f9f443f)  Sát thương tầm xa giảm[30-60]%.Giảm 1 nửa hiệu quả khi máu xuống dưới 50%
 
- ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được giáp ảo lượng (lv bản thân*[10-20]%) và phục hồi 30% Máu tối đa.Ví ví dụ lv1*20=20 giáp ảo.
+ ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được giáp ảo lượng (lv bản thân*[10-20]) và phục hồi 30% Máu tối đa.Ví ví dụ lv1*20=20 giáp ảo.
 
 ![image](https://github.com/user-attachments/assets/f8a4e781-2da1-429e-b2ff-e52cee70e208)  Gây thêm sát thương [1-5]% với máu hiện tại của mục tiêu(không phải máu tối đa).Lính có 2 lần đánh chỉ áp dụng với lần đánh đầu tiên trong 1 lượt(crossbowman,bow cavalry)
 
