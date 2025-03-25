@@ -28,7 +28,7 @@
 
  ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được giáp ảo lượng (lv bản thân*[10-20]) và phục hồi 30% Máu tối đa.Ví ví dụ lv1*20=20 giáp ảo.
 
-![image](https://github.com/user-attachments/assets/f8a4e781-2da1-429e-b2ff-e52cee70e208)  Gây thêm sát thương [1-5]% với máu hiện tại của mục tiêu(không phải máu tối đa).Lính có 2 lần đánh chỉ áp dụng với lần đánh đầu tiên trong 1 lượt(crossbowman,bow cavalry)
+![image](https://github.com/user-attachments/assets/f8a4e781-2da1-429e-b2ff-e52cee70e208)  Gây thêm sát thương [1-5]% với máu hiện tại của mục tiêu(không phải máu tối đa).
 
 ![image](https://github.com/user-attachments/assets/3a933eb4-87a5-47e8-9019-072b2a43e740)  Khi chết,rơi 1 lá cờ có [2-4].Trong 2 ô tấn công đồng minh +20%,tấn công kẻ địch -20%.1 cờ chỉ có thể chiếm 1 vị trí
 
