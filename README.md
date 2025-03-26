@@ -1,4 +1,4 @@
- ![image](https://github.com/user-attachments/assets/ca5b2bf7-e00c-44dd-bcf3-7dd5027f77ab)
+![image](https://github.com/user-attachments/assets/ca5b2bf7-e00c-44dd-bcf3-7dd5027f77ab)
  
 ![image](https://github.com/user-attachments/assets/586878a8-dcea-46ed-a49a-5ebc92ca3072)
 
@@ -26,7 +26,7 @@
 
 ![image](https://github.com/user-attachments/assets/f80f20ae-2b93-4d50-843e-dfc10f9f443f)  Sát thương tầm xa giảm[30-60]%.Giảm 1 nửa hiệu quả khi máu xuống dưới 50%
 
- ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được giáp ảo lượng (lv bản thân*[10-20]) và phục hồi 30% Máu tối đa.Ví ví dụ lv1*20=20 giáp ảo.
+ ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được lượng giáp ảo (lv bản thân*[10-20]) và phục hồi 30% Máu tối đa.Ví dụ lv1*20=20 giáp ảo.
 
 ![image](https://github.com/user-attachments/assets/f8a4e781-2da1-429e-b2ff-e52cee70e208)  Gây thêm sát thương [1-5]% với máu hiện tại của mục tiêu(không phải máu tối đa).
 
@@ -34,7 +34,7 @@
 
 ![image](https://github.com/user-attachments/assets/bc66f67e-17fb-445d-98e7-614cdc31a7f7)  Khi gây sát thương có [20-50]% tỉ lệ gây[ (50-100)%*Atk] sát thương chuẩn lên tối đa 4 mục tiêu trong 1 ô(Hình dấu +)
 
-![image](https://github.com/user-attachments/assets/e808cc10-f1ac-48b4-aa8b-ec84583e0dea)  Sát thương gây ra+ [20-50]% sát thương nhận vào +100%
+![image](https://github.com/user-attachments/assets/e808cc10-f1ac-48b4-aa8b-ec84583e0dea)  Sát thương gây ra +[20-50]% sát thương nhận vào +100%
 
 ![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% tỉ lệ gây sát thương chuẩn=4% máu tối đa của bản thân lên tối đa 4 kẻ địch trong 1 ô(bản thân làm trung tâm gây cho 4 địch theo dấu +). 4%*375Hp=14,96->làm tròn 15 sát thương chuẩn
 
@@ -44,7 +44,7 @@
 
 ![image](https://github.com/user-attachments/assets/d7151cfa-12c4-4f37-aec6-412487ccebe0)  Máu +[10-20]%,phục hồi 20% lượng máu đã mất cho bản thân và 4 đồng minh sau 5 vòng(Hình dấu +,ko hồi phục cho đồng minh cùng 1 ô(chiến thuật 1 ô))
 
-![image](https://github.com/user-attachments/assets/00e9b8f4-50a7-4ff4-8fe7-1674f3642314)  Sát thương nhận được không vượt quá[15-30].Sát thương vượt quá sẽ được tính sang lượt hành động bản thân,50% mỗi vòng .Nếu sát thương không vượt quá [15-30] thì nhận đủ sát thương [15-30].Ví dụ: chỉ số dc 15,Dmg thực nhận là 75 thì khi bị tấn công nhận 15(dư 60dmg),tới lượt hành động của bản thân nhận ngay sát thương bị động(dạng như kiểu đốt máu) 50%*60 = 30.(Bị tấn công bởi 2 kẻ địch với 70dmg và 26dmg với chỉ số 18 thì 2 lần bị tấn công nhận 18+18dmg,tới lượt hành động bản thân nhận (70-18+26-18)*50%=30(không tính các buff loại tăng,giảm sát thương khác)
+![image](https://github.com/user-attachments/assets/00e9b8f4-50a7-4ff4-8fe7-1674f3642314)  Sát thương nhận được không vượt quá[15-30].Sát thương vượt quá sẽ được tính sang lượt hành động bản thân,50% mỗi vòng .Nếu sát thương không vượt quá [15-30] thì nhận đủ sát thương [15-30].Ví dụ: chỉ số dc 15,Dmg thực nhận là 75 thì khi bị tấn công nhận 15(dư 60dmg),tới lượt hành động của bản thân nhận ngay sát thương bị động(dạng như kiểu đốt máu) 50%*60 = 30.(Bị tấn công bởi 2 kẻ địch với 70dmg và 26dmg với chỉ số 18 thì 2 lần bị tấn công nhận 18+18dmg,tới lượt hành động bản thân nhận (70-18+26-18)*50%=30(không tính tới các buff loại tăng,giảm sát thương khác)
 
 ![image](https://github.com/user-attachments/assets/807f093c-9111-4576-89cc-e223e76d9084)  Mỗi đòn tấn công tăng thêm 1 nộ.Có [20-50]% cơ hội tăng 50% nộ khi sử dụng kỹ năng
 
@@ -54,7 +54,7 @@
 
 ![image](https://github.com/user-attachments/assets/2d33a388-c257-4b68-8102-9f84a02e2528) Nhận ngẫu nhiên 1 trong 2 hiệu ứng. Chỉ tăng máu,khi máy chủ chạy ,máu mỗi ngày +30.Chỉ tăng công,khi máy chủ chạy, công mỗi ngày +3(Tính từ khi mở máy chủ VD:7 ngày *3 công=21 công) dù lấy sớm hay muộn cũng theo ngày mở máy chủ để +
 
-![image](https://github.com/user-attachments/assets/eab05542-ead6-4ef8-8f73-b23e26cccd7f)  Khi máu lần đầu giảm xuống 50%. Tân công+(cấp độ bản thân*5) và hút máu +[10-30]%
+![image](https://github.com/user-attachments/assets/eab05542-ead6-4ef8-8f73-b23e26cccd7f)  Khi máu lần đầu giảm xuống 50%. Tấn công+(cấp độ bản thân*5) và hút máu +[10-30]%
 
 ![image](https://github.com/user-attachments/assets/e19def8b-49b9-4472-9d69-e43fdd044748)  Khi bắt đầu vòng đầu tiên(tham gia chiến đấu) trao cho 3 đồng minh gần nhất 1 giáp ảo bằng [5-10]% máu tối đa của bản thân và bảo vệ sát thương ra bởi các kỹ năng động chủ 1 lần,kéo dài 10 vòng(1 lần duy nhất đến khi kết thúc trận chiến)
 
