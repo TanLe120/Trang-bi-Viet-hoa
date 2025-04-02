@@ -10,7 +10,7 @@
 ![image](https://github.com/user-attachments/assets/8d4a91f7-68af-406f-8466-599c7bd36a04)  Hồi[4-10] Khi Tấn Công.Có 40% cơ hội hồi phục cùng lượng máu[4-10] cho đồng đội có lượng máu thấp nhất trong vòng 5 ô.Không thể hồi phục vũ khí(trebuchet,catapult).Hiệu quả hồi phục máu giảm 1 nửa nếu tầm lớn hơn 2(Chỉ phục hồi 1 lần khi gây DMG Aoe.VD:Twin Spearman)
 
 
-![image](https://github.com/user-attachments/assets/5e0693fe-f0f9-41cf-a6d8-639daaf7b309)  Có [20-40]% tỉ lệ gây ra  [150-180]% sát thương
+![image](https://github.com/user-attachments/assets/5e0693fe-f0f9-41cf-a6d8-639daaf7b309)  Có [20-40]% cơ hội gây ra  [150-180]% sát thương
 
 
 ![image](https://github.com/user-attachments/assets/a45a86e7-8355-4995-9781-c96c4effdf6f)  Khi tấn công,phục hồi máu từ[10-50]%*St thương gây ra (46%*23 dmg=10,58 ->11 máu.Nếu đầy máu sẽ chuyển đổi lượng máu thừa thành giáp ảo ,lên đến cấp 6 của bản thân(mỗi cấp được 6 giáp ảo)
