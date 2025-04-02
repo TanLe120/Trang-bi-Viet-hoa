@@ -73,7 +73,7 @@
 ![image](https://github.com/user-attachments/assets/807f093c-9111-4576-89cc-e223e76d9084)  Mỗi đòn tấn công tăng thêm 1 nộ.Có [20-50]% cơ hội tăng 50% nộ khi sử dụng kỹ năng
 
 
-![image](https://github.com/user-attachments/assets/019c9285-b76f-4f0e-933c-591d897345d2)  Có [15-35]% tỉ lệ gây sát thương chuẩn =(2+ cấp độ bản thân)%*máu tối đa của mục tiêu.VD (2+1)%*máu tối đa mục tiêu(360) sẽ bằng (2+1)%*360=10,8 làm tròn thành 11 sát thương chuẩn.(1+ cấp độ bản thân)% đối với chủ sở hữu tầm xa.VD(1+6)%*487=34,09->34 sát thương chuẩn
+![image](https://github.com/user-attachments/assets/019c9285-b76f-4f0e-933c-591d897345d2)  Có [15-35]% cơ hội gây sát thương chuẩn =(2+ cấp độ bản thân)%*máu tối đa của mục tiêu.VD (2+1)%*máu tối đa mục tiêu(360) sẽ bằng (2+1)%*360=10,8 làm tròn thành 11 sát thương chuẩn.(1+ cấp độ bản thân)% đối với chủ sở hữu tầm xa.VD(1+6)%*487=34,09->34 sát thương chuẩn
 
 
 ![image](https://github.com/user-attachments/assets/d5744405-e43e-4383-bcc1-3b8f6a06af57)  Khi bị tấn công bởi các mục tiêu khác nhau, được nhận 3% giảm sát thương, có thể cộng dồn tối đa[10-20] lần đến khi kết thúc trận chiến.Phục hồi 10% máu tối đa khi đạt 10 cộng dồn
