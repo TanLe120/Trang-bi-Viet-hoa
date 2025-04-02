@@ -42,7 +42,7 @@
 
 ![image](https://github.com/user-attachments/assets/61605c33-d772-4fe3-97b3-a41fd9c4975a)  Kết liễu ngay mục tiêu có máu thấp hơn[5-20]% và +1 tấn công đến khi kết thúc trận chiến
 
-![image](https://github.com/user-attachments/assets/d7151cfa-12c4-4f37-aec6-412487ccebe0)  Máu +[10-20]%,phục hồi 20% lượng máu đã mất cho bản thân và 4 đồng minh sau 5 vòng(Hình dấu +,ko hồi phục cho đồng minh cùng 1 ô(chiến thuật 1 ô))
+![20250402_121639](https://github.com/user-attachments/assets/135dc673-e663-49d7-933c-90a55f8f12b5) Máu +[10-20]%,phục hồi 25% lượng máu đã mất cho bản thân và 4 đồng minh sau 5 vòng(Hình dấu +,ko hồi phục cho đồng minh cùng 1 ô(chiến thuật 1 ô))
 
 ![image](https://github.com/user-attachments/assets/00e9b8f4-50a7-4ff4-8fe7-1674f3642314)  Sát thương nhận được không vượt quá[15-30].Sát thương vượt quá sẽ được tính sang lượt hành động bản thân,50% mỗi vòng .Nếu sát thương không vượt quá [15-30] thì nhận đủ sát thương [15-30].Ví dụ: chỉ số dc 15,Dmg thực nhận là 75 thì khi bị tấn công nhận 15(dư 60dmg),tới lượt hành động của bản thân nhận ngay sát thương bị động(dạng như kiểu đốt máu) 50%*60 = 30.(Bị tấn công bởi 2 kẻ địch với 70dmg và 26dmg với chỉ số 18 thì 2 lần bị tấn công nhận 18+18dmg,tới lượt hành động bản thân nhận (70-18+26-18)*50%=30(không tính tới các buff loại tăng,giảm sát thương khác)
 
