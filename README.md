@@ -34,7 +34,7 @@
 
 ![image](https://github.com/user-attachments/assets/bc66f67e-17fb-445d-98e7-614cdc31a7f7)  Khi gây sát thương có [20-50]% tỉ lệ gây[ (50-100)%*Atk] sát thương chuẩn lên tối đa 4 mục tiêu trong 1 ô(Hình dấu +)
 
-![image](https://github.com/user-attachments/assets/e808cc10-f1ac-48b4-aa8b-ec84583e0dea)  Sát thương gây ra +[20-50]% sát thương nhận vào +100%
+![20250402_120801](https://github.com/user-attachments/assets/f0ecc194-7732-4b8a-b8a8-5564815bdc96)Sát thương gây ra +[20-50]% và sát thương nhận vào +100%,bỏ qua 20% giảm sát thương
 
 ![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% tỉ lệ gây sát thương chuẩn=4% máu tối đa của bản thân lên tối đa 4 kẻ địch trong 1 ô(bản thân làm trung tâm gây cho 4 địch theo dấu +). 4%*375Hp=14,96->làm tròn 15 sát thương chuẩn
 
