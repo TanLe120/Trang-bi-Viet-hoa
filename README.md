@@ -100,7 +100,7 @@
 ![20250402_122627](https://github.com/user-attachments/assets/8078cb8a-7a26-4c8c-8435-a24593ad08a6)Mỗi 3 vòng nhận được lá chắn(giáp ảo)bằng 4% máu tối đa và tăng bất kỳ hiệu ứng lá chắn lên bản thân[20-50]%
 
 
-![20250402_122648](https://github.com/user-attachments/assets/f3eae7a0-1204-43ef-88eb-7ef1ce13368c)Nếu máu và tấn công hiện tại của mục tiêu cao hơn bản thân, gây thêm sát thương chuẩn bằng ([5-15]%* cấp độ bản thân*tấn công của mục tiêu)
+![20250402_122648](https://github.com/user-attachments/assets/f3eae7a0-1204-43ef-88eb-7ef1ce13368c)Nếu máu và tấn công hiện tại(không phải máu tối đa)của mục tiêu cao hơn bản thân, gây thêm sát thương chuẩn bằng ([5-15]%* cấp độ bản thân*tấn công của mục tiêu)
 
 
 ![20250402_122542](https://github.com/user-attachments/assets/e7e1c9a4-4b9f-41ef-bb89-f72680088f8d)Khi sử dụng kỹ năng trúng mục tiêu, có [20-50]% cơ hội đốt cháy mục tiêu, gây sát thương chuẩn bằng (5*cấp độ bản thân) trong 3 vòng
