@@ -97,7 +97,7 @@
 ![20250402_122516](https://github.com/user-attachments/assets/b1790500-6800-48d7-8579-7a854ad9f464) Khi nhận sát thương chuẩn, có [10-25]% cơ hội làm choáng kẻ tấn công trong 1 vòng
 
 
-![20250402_122627](https://github.com/user-attachments/assets/8078cb8a-7a26-4c8c-8435-a24593ad08a6)Mỗi 3 vòng nhận được lá chắn(giáp ảo)bằng 4% máu tối đa và tăng bất kỳ hiệu ứng lá chắn lên bản thân[20-50]%
+![20250402_122627](https://github.com/user-attachments/assets/8078cb8a-7a26-4c8c-8435-a24593ad08a6)Mỗi 3 vòng nhận được lá chắn(giáp ảo)bằng 4% máu tối đa và tăng bất kỳ hiệu ứng lá chắn lên bản thân[20-50]%.Vd buff giáp ảo của Saber
 
 
 ![20250402_122648](https://github.com/user-attachments/assets/f3eae7a0-1204-43ef-88eb-7ef1ce13368c)Nếu máu và tấn công hiện tại(không phải máu tối đa)của mục tiêu cao hơn bản thân, gây thêm sát thương chuẩn bằng ([5-15]%* cấp độ bản thân*tấn công của mục tiêu)
