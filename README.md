@@ -85,7 +85,7 @@
 ![image](https://github.com/user-attachments/assets/eab05542-ead6-4ef8-8f73-b23e26cccd7f)  Khi máu lần đầu giảm xuống 50%. Tấn công+(cấp độ bản thân*5) và hút máu +[10-30]%
 
 
-![image](https://github.com/user-attachments/assets/e19def8b-49b9-4472-9d69-e43fdd044748)  Khi bắt đầu vòng đầu tiên(tham gia chiến đấu) trao cho 3 đồng minh gần nhất 1 giáp ảo bằng [5-10]% máu tối đa của bản thân và bảo vệ sát thương gây ra bởi các kỹ năng ch động 1 lần,kéo dài 10 vòng(1 lần duy nhất đến khi kết thúc trận chiến)
+![image](https://github.com/user-attachments/assets/e19def8b-49b9-4472-9d69-e43fdd044748)  Khi bắt đầu vòng đầu tiên(tham gia chiến đấu) trao cho 3 đồng minh gần nhất 1 giáp ảo bằng [5-10]% máu tối đa của bản thân và bảo vệ sát thương gây ra bởi các kỹ năng chủ động 1 lần,kéo dài 10 vòng(1 lần duy nhất đến khi kết thúc trận chiến)
 
 
 ![image](https://github.com/user-attachments/assets/cd790aef-c7f8-4212-9fc1-ebdaca33c90e)  Có [5-25]% cơ hội hành động 2 lần
