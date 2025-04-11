@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/3f290778-d95f-4402-9843-e8934ce83550)   Sát Thương Nhận Vào Giảm(1 - 6)
 
 
-![image](https://github.com/user-attachments/assets/8d4a91f7-68af-406f-8466-599c7bd36a04)  Hồi[4-10] máu gây sát thương.Có 40% cơ hội hồi phục máu tương đương cho đồng đội có Hp thấp nhất trong vòng 5 ô.Không thể hồi phục cho(trebuchet,catapult).Hiệu quả hồi phục máu giảm 1 nửa nếu tầm lớn hơn 2(Chỉ phục hồi 1 lần khi gây DMG Aoe.VD:Twin Spearman)
+![image](https://github.com/user-attachments/assets/8d4a91f7-68af-406f-8466-599c7bd36a04)  Hồi[4-10] máu khi gây sát thương.Có 40% cơ hội hồi phục máu tương đương cho đồng đội có Hp thấp nhất trong vòng 5 ô.Không thể hồi phục cho(trebuchet,catapult).Hiệu quả hồi phục máu giảm 1 nửa nếu tầm lớn hơn 2(Chỉ phục hồi 1 lần khi gây DMG Aoe.VD:Twin Spearman)
 
 
 ![image](https://github.com/user-attachments/assets/5e0693fe-f0f9-41cf-a6d8-639daaf7b309)  Có [20-40]% cơ hội gây ra  [150-180]% sát thương
