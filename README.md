@@ -1,42 +1,56 @@
+**Iron Sword**
 ![image](https://github.com/user-attachments/assets/ca5b2bf7-e00c-44dd-bcf3-7dd5027f77ab)
 
- 
+
+ **Helmet**
 ![image](https://github.com/user-attachments/assets/586878a8-dcea-46ed-a49a-5ebc92ca3072)
 
 
+**Chainmail**
 ![image](https://github.com/user-attachments/assets/3f290778-d95f-4402-9843-e8934ce83550)   Sát thương nhận vào giảm(1 - 6).
 
 
+**Cureblade**
 ![image](https://github.com/user-attachments/assets/8d4a91f7-68af-406f-8466-599c7bd36a04)  Hồi[4-10] máu khi gây sát thương.Có 40% cơ hội hồi phục máu tương đương cho đồng đội có Hp thấp nhất trong vòng 5 ô.Không thể hồi phục cho(trebuchet,catapult).Hiệu quả hồi phục máu giảm 1 nửa nếu tầm lớn hơn 2(Chỉ phục hồi 1 lần khi gây DMG Aoe.VD:Twin Spearman).
 
 
+**Crit Blade**
 ![image](https://github.com/user-attachments/assets/5e0693fe-f0f9-41cf-a6d8-639daaf7b309)  Có [20-40]% cơ hội gây ra  [150-180]% sát thương.
 
 
+**Leech Sword**
 ![image](https://github.com/user-attachments/assets/a45a86e7-8355-4995-9781-c96c4effdf6f)  Khi tấn công,phục hồi máu từ[10-50]%*St thương gây ra (46%*23 dmg=10,58 ->11 máu.Nếu đầy máu sẽ chuyển đổi lượng máu thừa thành giáp ảo ,lên đến cấp 6 của bản thân(mỗi cấp được 6 giáp ảo).
 
 
+**DMG Reflection Armor**
 ![image](https://github.com/user-attachments/assets/c45daafa-3516-4280-be64-885dac71062d)  Phản lại[1-5] Sát thương chuẩn khi bị tấn công.
 
 
+**Meteo Hammer**
 ![image](https://github.com/user-attachments/assets/9a8b7eed-49d2-4522-92e0-f503c35cb568)  Tầm đánh +1.Bỏ qua[30-70]% Né tránh khi tấn công.
 
 
+**Golden Axe**
 ![image](https://github.com/user-attachments/assets/57dbfeb7-4b74-4700-9c5a-d771208d2509)  Khi gây sát thương nhận [1-5]%*máu tối đa của mục tiêu thành giáp ảo.Vd:địch 1000 máu,rìu vàng có 5%,khi tấn công sẽ nhận được 50 giáp ảo.
 
 
+**Circle Blade**
 ![image](https://github.com/user-attachments/assets/e0f0d0ab-fd26-48a2-a982-696314d7c71b)  Mỗi lần nhận sát thương đòn tấn công tiếp theo tăng [4-10]% Hút máu,có thể cộng dồn lên đến 60%(10% với 6 lần bị tấn công(max)).Đòn tấn công tiếp theo tăng 30% sát thương khi đạt 30% hút máu.
 
 
-![image](https://github.com/user-attachments/assets/72076ba1-43a4-48fc-9c2b-bdefc2f3cce6)  Giảm sát thương cận chiến[10-35]%.Nhân đôi hiệu quả khi máu dưới 50%
+**Iron Shield**
+![image](https://github.com/user-attachments/assets/72076ba1-43a4-48fc-9c2b-bdefc2f3cce6)  Giảm sát thương cận chiến[10-35]%.Nhân đôi hiệu quả khi máu dưới 50%.
 
 
+**Wine Gourd**
 ![image](https://github.com/user-attachments/assets/26db7487-4584-44d1-88c3-d0dae3041ce1)  Hồi [1-4]% máu tối đa mỗi lượt hành động mới.
 
 
+**Dart**
 ![image](https://github.com/user-attachments/assets/5ca20953-80b0-42eb-abbb-9affd638768f)  Chuyển đổi[20-50]% sát thương gây ra thành sát thương chuẩn(ví dụ gây 100 sát thương(đỏ) với 20% sẽ được chuyển thành 20 sát thương chuẩn(trắng) và 80dmg(đỏ).
 
 
+**Rattan Shield**
 ![image](https://github.com/user-attachments/assets/f80f20ae-2b93-4d50-843e-dfc10f9f443f)  Sát thương tầm xa giảm[30-60]%.Giảm 1 nửa hiệu quả khi máu xuống dưới 50%
 
 
