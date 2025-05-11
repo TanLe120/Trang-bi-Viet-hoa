@@ -97,7 +97,7 @@
 ![20250402_122516](https://github.com/user-attachments/assets/b1790500-6800-48d7-8579-7a854ad9f464) Khi nhận sát thương chuẩn, có [10-25]% cơ hội làm choáng kẻ tấn công trong 1 lượt.
 
 
-![20250402_122627](https://github.com/user-attachments/assets/8078cb8a-7a26-4c8c-8435-a24593ad08a6)Mỗi 3 lượt nhận được lá chắn(giáp ảo)bằng 4% máu tối đa và tăng bất kỳ hiệu ứng lá chắn lên bản thân[20-50]%.
+![20250511_221557](https://github.com/user-attachments/assets/dd97790f-f662-405b-b4be-6b39e236b117)Mỗi 3 lượt nhận được lá chắn(giáp ảo)bằng 4% máu tối đa của bản thân và tăng bất kỳ hiệu ứng lá chắn lên bản thân[20-50]%.Vd: 3 lượt và nhận được một Pure Gold Shield bằng 338*4% = 13,52->14 với Shield effect tăng 44% sẽ được 14*44% =6,16 lấy 14+6,16= làm tròn 20(Không cộng dồn,Shield effect +26% không kích hoạt :xem hình 2 và 4).Với kỹ năng "Shield" của Saber :tạo được 30 giáp với 44% của PureGold và Shield effect +26% của exclusive -> (30*44%) =13,2 và 30*26%= 7,8. Lấy một trong hai: 13,2*26%= 3,432 hoặc 7,8*44%=3,432 tròn thành 3 .Ta sẽ dược 30+13.2+7.8+3 = 54 giáp(Xem hình minh họa 2,3 và 5)
 
 
 ![20250402_122648](https://github.com/user-attachments/assets/f3eae7a0-1204-43ef-88eb-7ef1ce13368c)Nếu máu và tấn công hiện tại(không phải máu tối đa)của mục tiêu cao hơn bản thân, gây thêm sát thương chuẩn bằng ([5-15]%* cấp độ bản thân*tấn công của mục tiêu).
