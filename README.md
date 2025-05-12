@@ -57,7 +57,8 @@
  ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được lượng giáp ảo (lv bản thân*[10-20]) và phục hồi 30% Máu tối đa.Ví dụ lv1*20=20 giáp ảo.
 
 
-![image](https://github.com/user-attachments/assets/f8a4e781-2da1-429e-b2ff-e52cee70e208)  Gây thêm sát thương [1-5]% với máu hiện tại của mục tiêu(không phải máu tối đa).
+**Mace**
+![chrome_image_12-05-2025 08_13_32 GMT+07_00](https://github.com/user-attachments/assets/60479e05-84e6-4311-bd6b-392765d2e2e8) Gây thêm sát thương [1-5]% với máu hiện tại của mục tiêu(không phải máu tối đa).
 
 
 ![image](https://github.com/user-attachments/assets/3a933eb4-87a5-47e8-9019-072b2a43e740)  Khi chết,rơi 1 lá cờ có [2-4].Trong 2 ô tấn công đồng minh +20%,tấn công kẻ địch -20%.1 cờ chỉ có thể chiếm 1 vị trí(không cộng dồn).
