@@ -23,11 +23,11 @@
 
 
 **DMG Reflection Armor**
-![image](https://github.com/user-attachments/assets/c45daafa-3516-4280-be64-885dac71062d)  Phản lại[1-5] Sát thương chuẩn khi bị tấn công.
+![image](https://github.com/user-attachments/assets/c45daafa-3516-4280-be64-885dac71062d)  Phản lại[1-5] sát thương chuẩn khi bị tấn công.
 
 
 **Meteo Hammer**
-![image](https://github.com/user-attachments/assets/9a8b7eed-49d2-4522-92e0-f503c35cb568)  Tầm đánh +1.Bỏ qua[30-70]% Né tránh khi tấn công.
+![image](https://github.com/user-attachments/assets/9a8b7eed-49d2-4522-92e0-f503c35cb568)  Tầm đánh +1.Bỏ qua[30-70]% né tránh khi tấn công.
 
 
 **Golden Axe**
