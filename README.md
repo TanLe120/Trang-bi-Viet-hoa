@@ -19,7 +19,7 @@
 
 
 **Leech Sword**
-![image](https://github.com/user-attachments/assets/a45a86e7-8355-4995-9781-c96c4effdf6f)  Khi tấn công,phục hồi máu từ[10-50]%*St thương gây ra (46%*23 dmg=10,58 ->11 máu.Nếu đầy máu sẽ chuyển đổi lượng máu thừa thành giáp ảo ,lên đến cấp 6 của bản thân(mỗi cấp được 6 giáp ảo).
+![image](https://github.com/user-attachments/assets/a45a86e7-8355-4995-9781-c96c4effdf6f)  Khi tấn công,phục hồi máu từ[10-50]%×St thương gây ra (46%×23 dmg=10,58 ->11 máu.Nếu đầy máu sẽ chuyển đổi lượng máu thừa thành giáp ảo ,lên đến cấp 6 của bản thân(mỗi cấp được 6 giáp ảo).
 
 
 **DMG Reflection Armor**
@@ -31,7 +31,7 @@
 
 
 **Golden Axe**
-![image](https://github.com/user-attachments/assets/57dbfeb7-4b74-4700-9c5a-d771208d2509)  Khi gây sát thương nhận [1-5]%*máu tối đa của mục tiêu thành giáp ảo.Vd:địch 1000 máu,rìu vàng có 5%,khi tấn công sẽ nhận được 50 giáp ảo.
+![image](https://github.com/user-attachments/assets/57dbfeb7-4b74-4700-9c5a-d771208d2509)  Khi gây sát thương nhận [1-5]%×máu tối đa của mục tiêu thành giáp ảo.Vd:địch 1000 máu,rìu vàng có 5%,khi tấn công sẽ nhận được 50 giáp ảo.
 
 
 **Circle Blade**
@@ -54,7 +54,7 @@
 ![image](https://github.com/user-attachments/assets/f80f20ae-2b93-4d50-843e-dfc10f9f443f)  Sát thương tầm xa giảm[30-60]%.Giảm 1 nửa hiệu quả khi máu xuống dưới 50%.
 
 **Copper Shield**
- ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được lượng giáp ảo (lv bản thân*[10-20]) và phục hồi 30% Máu tối đa.Ví dụ lv1*20=20 giáp ảo.
+ ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được lượng giáp ảo (lv bản thân×[10-20]) và phục hồi 30% Máu tối đa.Ví dụ lv1×20=20 giáp ảo.
 
 
 **Mace**
@@ -74,7 +74,7 @@
 
 
 **Sunfire Armor**
-![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% cơ hội gây sát thương chuẩ bằng 4% máu tối đa của bản thân lên "tối đa 4 kẻ địch" trong 1 ô hoặc bản thân làm trung tâm gây cho kẻ địch theo dấu +. 4%×375Hp=14,96->làm tròn 15 sát thương chuẩn.
+![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% cơ hội gây sát thương chuẩn bằng 4% máu tối đa của bản thân lên "tối đa 4 kẻ địch" trong 1 ô hoặc bản thân làm trung tâm gây cho kẻ địch theo dấu +. VD : 4%×375Hp=14,96->làm tròn 15 sát thương chuẩn.
 
 **Dodge Boots**
 ![image](https://github.com/user-attachments/assets/47675273-bee0-4950-b9ac-9cdb7aee50af)  Có [10-35]% né tránh mọi tổn thương.
