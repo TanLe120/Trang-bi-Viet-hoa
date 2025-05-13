@@ -19,7 +19,7 @@
 
 
 **Leech Sword**
-![image](https://github.com/user-attachments/assets/a45a86e7-8355-4995-9781-c96c4effdf6f)  Khi tấn công,phục hồi máu từ[10-50]%×St thương gây ra (46%×23 dmg=10,58 ->11 máu.Nếu đầy máu sẽ chuyển đổi lượng máu thừa thành giáp ảo ,lên đến cấp 6 của bản thân(mỗi cấp được 6 giáp ảo).
+![image](https://github.com/user-attachments/assets/a45a86e7-8355-4995-9781-c96c4effdf6f)  Khi tấn công,phục hồi máu từ[10-50]%*St thương gây ra (46%*23 dmg=10,58 ->11 máu.Nếu đầy máu sẽ chuyển đổi lượng máu thừa thành giáp ảo ,lên đến cấp 6 của bản thân(mỗi cấp được 6 giáp ảo).
 
 
 **DMG Reflection Armor**
@@ -31,7 +31,7 @@
 
 
 **Golden Axe**
-![image](https://github.com/user-attachments/assets/57dbfeb7-4b74-4700-9c5a-d771208d2509)  Khi gây sát thương nhận [1-5]%×máu tối đa của mục tiêu thành giáp ảo.Vd:địch 1000 máu,rìu vàng có 5%,khi tấn công sẽ nhận được 50 giáp ảo.
+![image](https://github.com/user-attachments/assets/57dbfeb7-4b74-4700-9c5a-d771208d2509)  Khi gây sát thương nhận [1-5]%*máu tối đa của mục tiêu thành giáp ảo.Vd:địch 1000 máu,rìu vàng có 5%,khi tấn công sẽ nhận được 50 giáp ảo.
 
 
 **Circle Blade**
@@ -54,11 +54,11 @@
 ![image](https://github.com/user-attachments/assets/f80f20ae-2b93-4d50-843e-dfc10f9f443f)  Sát thương tầm xa giảm[30-60]%.Giảm 1 nửa hiệu quả khi máu xuống dưới 50%.
 
 **Copper Shield**
- ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được lượng giáp ảo (lv bản thân×[10-20]) và phục hồi 30% Máu tối đa.Ví dụ lv1×20=20 giáp ảo.
+ ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được lượng giáp ảo (lv bản thân*[10-20]) và phục hồi 30% Máu tối đa.Ví dụ lv1*20=20 giáp ảo.
 
 
 **Mace**
-![chrome_image_12-05-2025 08_13_32 GMT+07_00](https://github.com/user-attachments/assets/60479e05-84e6-4311-bd6b-392765d2e2e8) Gây thêm sát thương [1-5]% với máu hiện tại của mục tiêu(không phải máu tối đa).
+![chrome_image_12-05-2025 08_13_32 GMT+07_00](https://github.com/user-attachments/assets/60479e05-84e6-4311-bd6b-392765d2e2e8) Gây thêm sát thương [1-5]%*với máu hiện tại của mục tiêu(không phải máu tối đa).
 
 
 **Army Flag**
@@ -74,7 +74,7 @@
 
 
 **Sunfire Armor**
-![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% cơ hội gây sát thương chuẩn bằng 4% máu tối đa của bản thân lên "tối đa 4 kẻ địch" trong 1 ô hoặc bản thân làm trung tâm gây cho kẻ địch theo dấu +. VD : 4%×375Hp=14,96->làm tròn 15 sát thương chuẩn.
+![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% cơ hội gây sát thương chuẩn bằng 4% máu tối đa của bản thân lên "tối đa 4 kẻ địch" trong 1 ô hoặc bản thân làm trung tâm gây cho kẻ địch theo dấu +. VD : 4%*375Hp=14,96->làm tròn 15 sát thương chuẩn.
 
 **Dodge Boots**
 ![image](https://github.com/user-attachments/assets/47675273-bee0-4950-b9ac-9cdb7aee50af)  Có [10-35]% né tránh mọi tổn thương.
@@ -89,7 +89,7 @@
 
 
 **Lamellar Cuirass**
-![image](https://github.com/user-attachments/assets/00e9b8f4-50a7-4ff4-8fe7-1674f3642314)  Sát thương nhận được không vượt quá[15-30].Sát thương vượt quá sẽ được tính sang lượt hành động bản thân,50% mỗi lượt .Nếu sát thương không vượt quá [15-30] thì nhận đủ lượng sát thương đó.Ví dụ: chỉ số dc 15,Dmg thực nhận là 75 thì khi bị tấn công nhận 15(dư 60dmg),tới lượt hành động của bản thân nhận ngay sát thương bị động(dạng như kiểu đốt máu) 50%×60 = 30.(Bị tấn công bởi 2 kẻ địch với 70dmg và 26dmg với chỉ số 18 thì 2 lần bị tấn công nhận 18+18dmg,tới lượt hành động bản thân nhận (70-18+26-18)×50%=30(không tính tới các buff loại tăng,giảm sát thương khác).
+![image](https://github.com/user-attachments/assets/00e9b8f4-50a7-4ff4-8fe7-1674f3642314)  Sát thương nhận được không vượt quá[15-30].Sát thương vượt quá sẽ được tính sang lượt hành động bản thân,50% mỗi lượt .Nếu sát thương không vượt quá [15-30] thì nhận đủ lượng sát thương đó.Ví dụ: chỉ số dc 15,Dmg thực nhận là 75 thì khi bị tấn công nhận 15(dư 60dmg),tới lượt hành động của bản thân nhận ngay sát thương bị động(dạng như kiểu đốt máu) 50%*60 = 30.(Bị tấn công bởi 2 kẻ địch với 70dmg và 26dmg với chỉ số 18 thì 2 lần bị tấn công nhận 18+18dmg,tới lượt hành động bản thân nhận (70-18+26-18)*50%=30(không tính tới các buff loại tăng,giảm sát thương khác).
 
 
 **Dual Axe**
@@ -97,7 +97,7 @@
 
 
 **Hook Swords**
-![image](https://github.com/user-attachments/assets/019c9285-b76f-4f0e-933c-591d897345d2)  Có [15-35]% cơ hội gây sát thương chuẩn =(2+ cấp độ bản thân)%×máu tối đa của mục tiêu.VD (2+1)%×máu tối đa mục tiêu(360) sẽ bằng (2+1)%×360=10,8 làm tròn thành 11 sát thương chuẩn.(1+ cấp độ bản thân)% đối với chủ sở hữu tầm xa.VD(1+6)%×487=34,09->34 sát thương chuẩn.
+![image](https://github.com/user-attachments/assets/019c9285-b76f-4f0e-933c-591d897345d2)  Có [15-35]% cơ hội gây sát thương chuẩn =(2+ cấp độ bản thân)%*máu tối đa của mục tiêu.VD (2+1)%*máu tối đa mục tiêu(360) sẽ bằng (2+1)%*360=10,8 làm tròn thành 11 sát thương chuẩn.(1+ cấp độ bản thân)% đối với chủ sở hữu tầm xa.VD(1+6)%*487=34,09->34 sát thương chuẩn.
 
 **Mirror Armor**
 ![image](https://github.com/user-attachments/assets/d5744405-e43e-4383-bcc1-3b8f6a06af57)  Khi bị tấn công bởi các mục tiêu khác nhau, được nhận 3% giảm sát thương, có thể cộng dồn tối đa[10-20] lần đến khi kết thúc trận chiến.Phục hồi 10% máu tối đa khi đạt 10 cộng dồn.
