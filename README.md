@@ -74,7 +74,7 @@
 
 
 **Sunfire Armor**
-![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% cơ hội gây sát thương chuẩ bằng 4% máu tối đa của bản thân lên tối đa 4 kẻ địch trong 1 ô và bản thân làm trung tâm gây cho 4 địch theo dấu +. 4%×375Hp=14,96->làm tròn 15 sát thương chuẩn.
+![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% cơ hội gây sát thương chuẩ bằng 4% máu tối đa của bản thân lên "tối đa 4 kẻ địch" trong 1 ô hoặc bản thân làm trung tâm gây cho kẻ địch theo dấu +. 4%×375Hp=14,96->làm tròn 15 sát thương chuẩn.
 
 **Dodge Boots**
 ![image](https://github.com/user-attachments/assets/47675273-bee0-4950-b9ac-9cdb7aee50af)  Có [10-35]% né tránh mọi tổn thương.
