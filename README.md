@@ -53,7 +53,7 @@
 **Rattan Shield**
 ![image](https://github.com/user-attachments/assets/f80f20ae-2b93-4d50-843e-dfc10f9f443f)  Sát thương tầm xa giảm[30-60]%.Giảm 1 nửa hiệu quả khi máu xuống dưới 50%.
 
-
+**Copper Shield**
  ![image](https://github.com/user-attachments/assets/ed985a10-04da-4030-9a4c-3082856c0238)  Khi máu lần đầu giảm xuống 50% nhận được lượng giáp ảo (lv bản thân*[10-20]) và phục hồi 30% Máu tối đa.Ví dụ lv1*20=20 giáp ảo.
 
 
@@ -61,18 +61,22 @@
 ![chrome_image_12-05-2025 08_13_32 GMT+07_00](https://github.com/user-attachments/assets/60479e05-84e6-4311-bd6b-392765d2e2e8) Gây thêm sát thương [1-5]% với máu hiện tại của mục tiêu(không phải máu tối đa).
 
 
+**Army Flag**
 ![image](https://github.com/user-attachments/assets/3a933eb4-87a5-47e8-9019-072b2a43e740)  Khi chết,rơi 1 lá cờ có [2-4].Trong 2 ô tấn công đồng minh +20%,tấn công kẻ địch -20%.1 cờ chỉ có thể chiếm 1 vị trí(không cộng dồn).
 
 
+**Qiankun Saber**
 ![image](https://github.com/user-attachments/assets/bc66f67e-17fb-445d-98e7-614cdc31a7f7)  Khi gây sát thương có [20-50]% cơ hội gây[ (50-100)%*Atk] sát thương chuẩn lên tối đa 4 mục tiêu trong 1 ô(Hình dấu +).
 
 
+**Cresen Blade**
 ![20250402_120801](https://github.com/user-attachments/assets/f0ecc194-7732-4b8a-b8a8-5564815bdc96)Sát thương gây ra +[20-50]% và sát thương nhận vào +100%,bỏ qua 20% giảm sát thương.
 
 
+**Sunfire Armor**
 ![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% cơ hội gây sát thương chuẩn=4% máu tối đa của bản thân lên tối đa 4 kẻ địch trong 1 ô(bản thân làm trung tâm gây cho 4 địch theo dấu +). 4%*375Hp=14,96->làm tròn 15 sát thương chuẩn.
 
-
+**Dodge Booster**
 ![image](https://github.com/user-attachments/assets/47675273-bee0-4950-b9ac-9cdb7aee50af)  Có [10-35]% né tránh mọi tổn thương.
 
 
