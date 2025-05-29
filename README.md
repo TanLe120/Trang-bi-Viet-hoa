@@ -66,7 +66,7 @@
 
 
 **Qiankun Saber**
-![image](https://github.com/user-attachments/assets/bc66f67e-17fb-445d-98e7-614cdc31a7f7)  Khi gây sát thương có [20-50]% cơ hội gây[ (50-100)%*Atk] sát thương chuẩn lên tối đa 4 mục tiêu trong 1 ô và hình dấu + từ mục tiêu.
+![image](https://github.com/user-attachments/assets/bc66f67e-17fb-445d-98e7-614cdc31a7f7)  Khi gây sát thương có [20-50]% cơ hội gây[ (50-100)%*Atk] sát thương chuẩn lên "tối đa 4 mục tiêu" trong 1 ô ,và nổ hình dấu + từ mục tiêu.
 
 
 **Cresen Blade**
@@ -89,7 +89,7 @@
 
 
 **Lamellar Cuirass**
-![image](https://github.com/user-attachments/assets/00e9b8f4-50a7-4ff4-8fe7-1674f3642314)  Sát thương nhận được không vượt quá[15-30].Sát thương vượt quá sẽ được tính sang lượt hành động bản thân,50% mỗi lượt .Nếu sát thương không vượt quá [15-30] thì nhận đủ lượng sát thương đó.Ví dụ: Chỉ số dc 15,Sát thương thực nhận là 75 thì khi bị tấn công nhận 15(dư 60dmg),tới lượt hành động của bản thân nhận ngay sát thương bị động(dạng như kiểu đốt máu) 50%*60=30dmg,lượt hành động tiếp nhận 15dmg và lượt hành động 3 nhận 15dmg.Nếu st không vượt quá [15-30] Vd: Chỉ số là 21, Chịu tấn công với sát thương thực là 28 ta sẽ lấy 28-21=7dmg(không vượt quá 21 chỉ số sẽ trả hết 7dmg thừa vào lượt hành động tiếp theo).(chưa tính tới các hiệu ứng khác).
+![image](https://github.com/user-attachments/assets/00e9b8f4-50a7-4ff4-8fe7-1674f3642314)  Sát thương nhận được không vượt quá[15-30].Lượng sát thương dư sẽ được tính sang lượt hành động bản thân,50% mỗi lượt .Nếu sát thương dư không vượt quá [15-30] thì nhận đủ lượng sát thương đó.Ví dụ: Chỉ số dc 15,Sát thương thực nhận là 75 thì khi bị tấn công nhận 15(dư 60dmg),tới lượt hành động của bản thân nhận ngay sát thương bị động(dạng như kiểu đốt máu) 50%*60=30dmg,lượt hành động tiếp nhận 15dmg và lượt hành động 3 nhận 15dmg.Nếu st dư không vượt quá [15-30] Vd: Chỉ số là 21, Chịu tấn công với sát thương thực là 28 ta sẽ lấy 28-21=dư 7dmg(không vượt quá 21 chỉ số sẽ trả hết 7dmg thừa vào lượt hành động tiếp theo).
 
 
 **Dual Axe**
