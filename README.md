@@ -93,7 +93,7 @@
 
 
 **Dual Axe**
-![image](https://github.com/user-attachments/assets/807f093c-9111-4576-89cc-e223e76d9084)  Mỗi đòn tấn công tăng thêm 1 nộ.Có [20-50]% cơ hội tăng 50% nộ khi sử dụng kỹ năng.
+![20250613_200834](https://github.com/user-attachments/assets/9d401e59-f530-4392-be56-5bd591349691) Mỗi đòn tấn công tăng thêm 1 nộ.Có [20-50]% cơ hội tăng 50% nộ khi sử dụng kỹ năng.
 
 
 **Hook Swords**
