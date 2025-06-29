@@ -89,7 +89,7 @@
 
 
 **Lamellar Cuirass**
-![image](https://github.com/user-attachments/assets/00e9b8f4-50a7-4ff4-8fe7-1674f3642314) Sát thương nhận được không vượt quá [15-30]. Sát thương dư sẽ được trừ vào các lượt sau, mỗi lượt 50%. Nếu giá trị trừ không cao hơn [15-30],nhận toàn bộ sát thương dư.Ví dụ: Chỉ số dc 15,Sát thương thực nhận là 75 thì khi bị tấn công nhận 15(dư 60dmg),tới lượt hành động của bản thân nhận ngay sát thương bị động(dạng như kiểu đốt máu) 50%*60=30dmg,lượt hành động tiếp nhận 15dmg và lượt hành động 3 nhận 15dmg(Trường hợp ko nhận thêm bất kỳ sát thương nào nữa,còn nhận thêm tiếp sát thương thì + lượng dư rồi *50%).Nếu st dư không vượt quá [15-30] Vd: Chỉ số là 21, Chịu tấn công với sát thương thực là 28 ta sẽ lấy 28-21=dư 7dmg(không vượt quá 21 chỉ số sẽ trả hết 7dmg thừa vào lượt hành động tiếp theo).
+![image](https://github.com/user-attachments/assets/00e9b8f4-50a7-4ff4-8fe7-1674f3642314) Sát thương nhận được không vượt quá [15-30]. Sát thương dư sẽ được trừ vào các lượt sau, mỗi lượt 50%. Nếu giá trị trừ không cao hơn [15-30],nhận toàn bộ sát thương dư.Ví dụ: Chỉ số dc 15,Sát thương thực nhận là 75 thì khi bị tấn công nhận 15(dư 60dmg),tới lượt hành động của bản thân nhận ngay sát thương bị động(dạng như kiểu đốt máu) 50%*60=30dmg,lượt hành động tiếp nhận 15dmg và lượt hành động 3 nhận 15dmg(Trường hợp ko nhận thêm bất kỳ sát thương nào nữa),còn nhận thêm tiếp sát thương thì + lượng tiếp dư rồi *50%).Nếu st dư không vượt quá [15-30] Vd: Chỉ số là 21, Chịu tấn công với sát thương thực là 28 ta sẽ lấy 28-21=dư 7dmg(không vượt quá 21 chỉ số sẽ trả hết 7dmg thừa vào lượt hành động tiếp theo).
 
 
 **Dual Axe**
