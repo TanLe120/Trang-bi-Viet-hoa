@@ -66,7 +66,7 @@
 
 
 **Qiankun Saber**
-![image](https://github.com/user-attachments/assets/bc66f67e-17fb-445d-98e7-614cdc31a7f7)  Khi gây sát thương có [20-50]% cơ hội gây sát thương chuẩn bằng[ (50-100)%*Atk] lên "tối đa 4 mục tiêu" trong 1 ô xung quanh mục tiêu(nổ hình dấu +) cả khi kẻ địch chơi 1 ô Qiankun vẫn sẽ nổ (Passive Skill "Counter" sẽ ảnh hưởng tới lượng True Dmg nổ).
+<img width="308" height="359" alt="20250714_222616" src="https://github.com/user-attachments/assets/57abbeb1-94bc-4224-bc27-09469c53b98e" /> Khi gây sát thương có [20-50]% cơ hội gây sát thương chuẩn bằng[ (50-100)%*Atk] lên "tối đa 4 mục tiêu" trong 1 ô xung quanh mục tiêu(nổ hình dấu +) cả khi kẻ địch chơi 1 ô Qiankun vẫn sẽ nổ (Passive Skill "Counter" sẽ ảnh hưởng tới lượng True Dmg nổ).
 
 
 **Cresen Blade**
