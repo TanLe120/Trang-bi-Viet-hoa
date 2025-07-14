@@ -77,7 +77,7 @@
 ![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% cơ hội gây sát thương chuẩn bằng 4% máu tối đa của bản thân lên "tối đa 4 kẻ địch" trong 1 ô hoặc bản thân làm trung tâm gây cho kẻ địch theo dấu +. VD : 4%*375Hp=14,96->làm tròn 15 sát thương chuẩn.
 
 **Dodge Boots**
-![image](https://github.com/user-attachments/assets/47675273-bee0-4950-b9ac-9cdb7aee50af)  Có [10-35]% né tránh mọi tổn thương(Né cả đánh thường và kỹ năng).
+![image](https://github.com/user-attachments/assets/47675273-bee0-4950-b9ac-9cdb7aee50af)  Có [10-35]% cơ hội né tránh mọi sát thương(Né cả đánh thường và kỹ năng).
 
 
 **Flying Guillotine**
@@ -98,6 +98,7 @@
 
 **Hook Swords**
 ![image](https://github.com/user-attachments/assets/019c9285-b76f-4f0e-933c-591d897345d2)  Có [15-35]% cơ hội gây sát thương chuẩn =(2+ cấp độ bản thân)%*máu tối đa của mục tiêu.VD (2+1)%*máu tối đa mục tiêu(360) sẽ bằng (2+1)%*360=10,8 làm tròn thành 11 sát thương chuẩn.(1+ cấp độ bản thân)% đối với chủ sở hữu tầm xa.VD(1+6)%*487=34,09->34 sát thương chuẩn.
+
 
 **Mirror Armor**
 ![image](https://github.com/user-attachments/assets/d5744405-e43e-4383-bcc1-3b8f6a06af57)  Khi bị tấn công bởi các mục tiêu khác nhau, được nhận 3% giảm sát thương, có thể cộng dồn tối đa[10-20] lần đến khi kết thúc trận chiến.Phục hồi 10% máu tối đa khi đạt 10 cộng dồn.
