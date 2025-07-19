@@ -62,7 +62,7 @@
 
 
 **Army Flag**
-![image](https://github.com/user-attachments/assets/3a933eb4-87a5-47e8-9019-072b2a43e740)  Khi chết,rơi 1 lá cờ có [2-4].Trong 2 ô tấn công đồng minh +20%,tấn công kẻ địch -20%.1 cờ chỉ có thể chiếm 1 vị trí(không cộng dồn).
+![image](https://github.com/user-attachments/assets/3a933eb4-87a5-47e8-9019-072b2a43e740)  Khi chết,rơi 1 lá cờ có [2-4]Hp.Trong 2 ô tấn công đồng minh +20%,tấn công kẻ địch -20%.1 cờ chỉ có thể chiếm 1 vị trí(không cộng dồn).
 
 
 **Qiankun Saber**
