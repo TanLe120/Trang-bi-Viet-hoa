@@ -31,7 +31,7 @@
 
 
 **Golden Axe**
-![image](https://github.com/user-attachments/assets/57dbfeb7-4b74-4700-9c5a-d771208d2509)  Khi gây sát thương nhận [1-5]%*máu tối đa của mục tiêu thành giáp ảo.Vd:địch 1000 máu,rìu vàng có 5%,khi tấn công sẽ nhận được 50 giáp ảo.
+![image](https://github.com/user-attachments/assets/57dbfeb7-4b74-4700-9c5a-d771208d2509)  Khi gây sát thương nhận [1-5]%*máu tối đa của mục tiêu thành giáp ảo.Vd:địch 1000 máu,rìu vàng có 5%,khi tấn công sẽ nhận được 50 giáp ảo(Không cộng dồn).
 
 
 **Circle Blade**
@@ -66,7 +66,7 @@
 
 
 **Qiankun Saber**
-<img width="308" height="359" alt="20250714_222616" src="https://github.com/user-attachments/assets/57abbeb1-94bc-4224-bc27-09469c53b98e" /> Khi gây sát thương có [20-50]% cơ hội gây sát thương chuẩn bằng[ (50-100)%*Atk] lên "tối đa 4 mục tiêu" trong 1 ô xung quanh mục tiêu(nổ hình dấu +) cả khi kẻ địch chơi 1 ô Qiankun vẫn sẽ nổ (Passive Skill "Counter" sẽ ảnh hưởng tới lượng True Dmg nổ).
+<img width="308" height="359" alt="20250714_222616" src="https://github.com/user-attachments/assets/57abbeb1-94bc-4224-bc27-09469c53b98e" /> Khi gây sát thương có [20-50]% cơ hội gây sát thương chuẩn bằng[ (50-100)%*Atk] lên **"tối đa 4 mục tiêu"** trong 1 ô xung quanh mục tiêu(nổ hình dấu +) cả khi kẻ địch chơi 1 ô Qiankun vẫn sẽ nổ (Passive Skill "Counter" sẽ ảnh hưởng tới lượng True Dmg nổ).
 
 
 **Cresen Blade**
@@ -74,7 +74,7 @@
 
 
 **Sunfire Armor**
-![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% cơ hội gây sát thương chuẩn bằng 4% máu tối đa của bản thân lên "tối đa 4 kẻ địch" trong 1 ô hoặc bản thân làm trung tâm gây cho kẻ địch theo dấu +. VD : 4%*375Hp=14,96->làm tròn 15 sát thương chuẩn.
+![image](https://github.com/user-attachments/assets/99f1ed7e-8cbf-4c05-9060-05a94fcd71df)  Vào đầu mỗi lượt có [20-50]% cơ hội gây sát thương chuẩn bằng 4% máu tối đa của bản thân lên **"tối đa 4 kẻ địch"** trong 1 ô hoặc bản thân làm trung tâm gây cho kẻ địch theo dấu +. VD : 4%*375Hp=14,96->làm tròn 15 sát thương chuẩn.
 
 **Dodge Boots**
 ![image](https://github.com/user-attachments/assets/47675273-bee0-4950-b9ac-9cdb7aee50af)  Có [10-35]% cơ hội né tránh mọi sát thương(Né cả đánh thường và kỹ năng).
