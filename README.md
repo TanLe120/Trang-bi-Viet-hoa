@@ -85,7 +85,7 @@
 
 
 **Helm of Calmness**
-![20250402_121639](https://github.com/user-attachments/assets/135dc673-e663-49d7-933c-90a55f8f12b5) Máu +[10-20]%,phục hồi 25% lượng máu đã mất cho bản thân và 4 đồng minh sau 5 lượt(Hình dấu +,ko hồi phục cho đồng minh cùng 1 ô(chiến thuật 1 ô)).
+![20250402_121639](https://github.com/user-attachments/assets/135dc673-e663-49d7-933c-90a55f8f12b5) Máu +[10-20]%,phục hồi 25% lượng máu đã mất cho bản thân và 4 đồng minh sau 5 lượt(Lấy bản thân làm trung tâm hồi theo hình dấu + cho 4 đồng minh,ko hồi phục cho đồng minh cùng 1 ô(chiến thuật 1 ô)).
 
 
 **Lamellar Cuirass**
