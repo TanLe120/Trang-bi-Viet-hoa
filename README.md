@@ -93,7 +93,7 @@
 
 
 **Dual Axe**
-![20250613_200834](https://github.com/user-attachments/assets/9d401e59-f530-4392-be56-5bd591349691) Mỗi đòn tấn công tăng thêm 1 nộ.Có [20-50]% cơ hội tăng 50% nộ khi sử dụng kỹ năng.
+![20250613_200834](https://github.com/user-attachments/assets/9d401e59-f530-4392-be56-5bd591349691) Mỗi đòn tấn công tăng thêm 1 nộ.Có [20-50]% cơ hội tăng 50% nộ sau khi sử dụng kỹ năng.
 
 
 **Hook Swords**
@@ -101,7 +101,7 @@
 
 
 **Mirror Armor**
-![image](https://github.com/user-attachments/assets/d5744405-e43e-4383-bcc1-3b8f6a06af57)  Khi bị tấn công bởi các mục tiêu "khác nhau", được nhận 3% giảm sát thương, có thể cộng dồn tối đa[10-20] lần đến khi kết thúc trận chiến.Phục hồi 10% máu tối đa khi đạt 10 cộng dồn(1 kẻ địch tấn công 3% ,2 địch 6%...).
+![image](https://github.com/user-attachments/assets/d5744405-e43e-4383-bcc1-3b8f6a06af57)  Khi bị tấn công bởi các mục tiêu **"khác nhau"**, được nhận 3% giảm sát thương, có thể cộng dồn tối đa[10-20] lần đến khi kết thúc trận chiến.Phục hồi 10% máu tối đa khi đạt 10 cộng dồn.(1 kẻ địch tấn công 3% ,2 địch 6%...).
 
 
 **Time Flag**
@@ -109,7 +109,7 @@
 
 
 **Battle Axe**
-![image](https://github.com/user-attachments/assets/eab05542-ead6-4ef8-8f73-b23e26cccd7f)  Khi máu lần đầu giảm xuống 50%. Tấn công+(cấp độ bản thân*5) và hút máu +[10-30]%.
+![image](https://github.com/user-attachments/assets/eab05542-ead6-4ef8-8f73-b23e26cccd7f)  Khi máu lần đầu giảm xuống 50%. Tấn công+(cấp độ bản thân*5)% và hút máu +[10-30]%.
 
 
 **Jade Pendant**
