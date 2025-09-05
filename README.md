@@ -7,7 +7,7 @@
 
 
 **Chainmail**
-![image](https://github.com/user-attachments/assets/3f290778-d95f-4402-9843-e8934ce83550)   Sát thương nhận vào giảm(1 - 6).
+![image](https://github.com/user-attachments/assets/3f290778-d95f-4402-9843-e8934ce83550)   Sát thương nhận vào giảm(1 - 5).
 
 
 **Cureblade**
@@ -125,7 +125,7 @@
 
 
 **Blinding Pendant**
-![20250402_122516](https://github.com/user-attachments/assets/b1790500-6800-48d7-8579-7a854ad9f464) Khi nhận sát thương chuẩn, có [10-25]% cơ hội làm choáng kẻ tấn công trong 1 lượt.
+![20250402_122516](https://github.com/user-attachments/assets/b1790500-6800-48d7-8579-7a854ad9f464) Khi nhận sát thương chuẩn, có [10-35]% cơ hội làm choáng kẻ tấn công trong 1 lượt.
 
 
 **Pure Gold Shield**
@@ -134,7 +134,7 @@ Mỗi 3 lượt nhận được lá chắn(giáp ảo)bằng 4% máu tối đa c
 
 
 **Billhook**
-![20250402_122648](https://github.com/user-attachments/assets/f3eae7a0-1204-43ef-88eb-7ef1ce13368c)Nếu máu và tấn công hiện tại(không phải máu tối đa)của mục tiêu cao hơn bản thân, gây thêm sát thương chuẩn bằng ([5-15]%* cấp độ bản thân*tấn công của mục tiêu).
+![20250402_122648](https://github.com/user-attachments/assets/f3eae7a0-1204-43ef-88eb-7ef1ce13368c)Nếu máu và tấn công hiện tại(không phải máu tối đa)của mục tiêu cao hơn bản thân, gây thêm sát thương chuẩn bằng ([5-10]%* cấp độ bản thân*tấn công của mục tiêu).
 
 
 **Ring of Burning Heart**
