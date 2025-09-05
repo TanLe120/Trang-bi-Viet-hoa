@@ -23,7 +23,7 @@
 
 
 **DMG Reflection Armor**
-![image](https://github.com/user-attachments/assets/c45daafa-3516-4280-be64-885dac71062d)  Phản lại[1-5] sát thương chuẩn khi bị tấn công.
+![image](https://github.com/user-attachments/assets/c45daafa-3516-4280-be64-885dac71062d)Có [20-50]% cơ hội phản lại 5 sát thương chuẩn cho kẻ tấn công khi nhận sát thương.Cứ mỗi 50 máu tối đa,+1 phản sât thương.
 
 
 **Meteo Hammer**
